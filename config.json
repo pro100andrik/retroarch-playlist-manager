@@ -1,0 +1,16 @@
+{
+  "advancedRomFields": false,
+  "hideNonInstalledCores": true,
+  "windowGeometry": {
+    "windowSize": {
+      "height": 800,
+      "width": 500
+    },
+    "windowPosition": {
+      "x": 1366,
+      "y": 109
+    }
+  },
+  "coresFilterType": 1,
+  "coresSortType": 2
+}
